@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Aditya Malik
-- 👀 I’m interested in Full Stack Web Development
+- 👋 Hi, I’m Aditya Malik, currently pursuing my Masters in Computer science from University of Passau, Germany
+- I am in 3rd semester of my masters studies and my focus is on Data Visualisation
+- 👀 I’m also interested in Full Stack Web Development
 - 🌱 I’m currently working on Full Stack development using React, Typescript, NodeJs, MongoDB, etc
 - 📫 How to reach me : malikaditya2000@gmail.com
 
