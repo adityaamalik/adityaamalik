@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @adityaamalik
+- 👋 Hi, I’m Aditya Malik
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Web projects ( React, NodeJS, MongoDB, Django, PostgreSQL, etc )
+- 🌱 I’m currently working on Full Stack development using React, Typescript, NodeJs, MongoDB, etc
 - 📫 How to reach me : malikaditya2000@gmail.com
 
 <!---
